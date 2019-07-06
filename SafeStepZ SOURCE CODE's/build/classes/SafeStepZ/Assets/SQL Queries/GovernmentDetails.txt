@@ -1,0 +1,10 @@
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956748','1994');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956750','1995');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956752','1996');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956756','2004');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956754','2001');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956760','1993');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956761','2007');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956762','2010');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956763','2008');
+INSERT INTO `governmentdetails`(`GovernmentID`, `YearOfJoining`) VALUES ('G-18956764','2013');

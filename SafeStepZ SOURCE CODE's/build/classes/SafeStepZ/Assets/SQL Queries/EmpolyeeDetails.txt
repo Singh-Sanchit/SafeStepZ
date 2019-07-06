@@ -1,0 +1,5 @@
+INSERT INTO `register`(`FullName`, `Age`, `Gender`, `EmailID`, `AadharNo`, `GovernmentID`, `Password`) VALUES ('Sanchit Singh','18','M','sanchitsingh0409@gmail.com','281919688758','G-18956748','9869505118');
+INSERT INTO `register`(`FullName`, `Age`, `Gender`, `EmailID`, `AadharNo`, `GovernmentID`, `Password`) VALUES ('Akash Rajpurohit','18','M','akashrajpurohit.009@gmail.com','678943129561','G-18956750','8698015453');
+INSERT INTO `register`(`FullName`, `Age`, `Gender`, `EmailID`, `AadharNo`, `GovernmentID`, `Password`) VALUES ('Raj Kotadia','19','M','rajkotadia15@gmail.com','174456008921','G-18956752','9773995480');
+INSERT INTO `register`(`FullName`, `Age`, `Gender`, `EmailID`, `AadharNo`, `GovernmentID`, `Password`) VALUES ('Rohit Zaveri','19','M','zaveri.rohit@gmail.com','281919685491','G-18956756','9889446123');
+INSERT INTO `register`(`FullName`, `Age`, `Gender`, `EmailID`, `AadharNo`, `GovernmentID`, `Password`) VALUES ('Piyush Shah','18','M','piyushshah007@gmail.com','801719688758','G-18956754','8165723417');

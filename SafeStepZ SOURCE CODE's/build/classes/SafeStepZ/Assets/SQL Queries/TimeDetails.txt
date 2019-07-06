@@ -1,0 +1,379 @@
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('1','B1','Borivali','6-8 AM',125,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('2','B1','Borivali','8-10 AM',150,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('3','B1','Borivali','10-12 AM',135,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('4','B1','Borivali','12-2 PM',225,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('5','B1','Borivali','2-4 PM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('6','B1','Borivali','4-6 PM',170,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('7','B1','Borivali','6-8 PM',195,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('8','B1','Borivali','8-10 PM',180,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('9','B1','Borivali','6-8 AM',135,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('10','B1','Borivali','8-10 AM',145,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('11','B1','Borivali','10-12 AM',130,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('12','B1','Borivali','12-2 PM',235,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('13','B1','Borivali','2-4 PM',225,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('14','B1','Borivali','4-6 PM',190,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('15','B1','Borivali','6-8 PM',195,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('16','B1','Borivali','8-10 PM',190,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('17','B2','Borivali','6-8 AM',120,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('18','B2','Borivali','8-10 AM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('19','B2','Borivali','10-12 AM',135,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('20','B2','Borivali','12-2 PM',143,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('21','B2','Borivali','2-4 PM',127,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('22','B2','Borivali','4-6 PM',157,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('23','B2','Borivali','6-8 PM',166,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('24','B2','Borivali','8-10 PM',168,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('25','B2','Borivali','6-8 AM',110,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('26','B2','Borivali','8-10 AM',150,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('27','B2','Borivali','10-12 AM',143,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('28','B2','Borivali','12-2 PM',133,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('29','B2','Borivali','2-4 PM',122,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('30','B2','Borivali','4-6 PM',162,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('31','B2','Borivali','6-8 PM',160,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('32','B2','Borivali','8-10 PM',175,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('33','BS1','Vasai','6-8 AM',150,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('34','BS1','Vasai','8-10 AM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('35','BS1','Vasai','10-12 AM',135,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('36','BS1','Vasai','12-2 PM',125,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('37','BS1','Vasai','2-4 PM',100,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('38','BS1','Vasai','4-6 PM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('39','BS1','Vasai','6-8 PM',150,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('40','BS1','Vasai','8-10 PM',155,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('41','BS1','Vasai','6-8 AM',155,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('42','BS1','Vasai','8-10 AM',140,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('43','BS1','Vasai','10-12 AM',138,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('44','BS1','Vasai','12-2 PM',120,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('45','BS1','Vasai','2-4 PM',107,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('46','BS1','Vasai','4-6 PM',155,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('47','BS1','Vasai','6-8 PM',146,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('48','BS1','Vasai','8-10 PM',159,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('49','BS2','Vasai','6-8 AM',180,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('50','BS2','Vasai','8-10 AM',165,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('51','BS2','Vasai','10-12 AM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('52','BS2','Vasai','12-2 PM',130,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('53','BS2','Vasai','2-4 PM',125,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('54','BS2','Vasai','4-6 PM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('55','BS2','Vasai','6-8 PM',160,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('56','BS2','Vasai','8-10 PM',175,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('57','BS2','Vasai','6-8 AM',173,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('58','BS2','Vasai','8-10 AM',170,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('59','BS2','Vasai','10-12 AM',140,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('60','BS2','Vasai','12-2 PM',110,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('61','BS2','Vasai','2-4 PM',135,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('62','BS2','Vasai','4-6 PM',140,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('63','BS2','Vasai','6-8 PM',150,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('64','BS2','Vasai','8-10 PM',189,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('65','V1','Virar','6-8 AM',200,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('66','V1','Virar','8-10 AM',210,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('67','V1','Virar','10-12 AM',175,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('68','V1','Virar','12-2 PM',140,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('69','V1','Virar','2-4 PM',150,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('70','V1','Virar','4-6 PM',180,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('71','V1','Virar','6-8 PM',195,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('72','V1','Virar','8-10 PM',200,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('73','V1','Virar','6-8 AM',180,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('74','V1','Virar','8-10 AM',200,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('75','V1','Virar','10-12 AM',200,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('76','V1','Virar','12-2 PM',150,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('77','V1','Virar','2-4 PM',130,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('78','V1','Virar','4-6 PM',170,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('79','V1','Virar','6-8 PM',200,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('80','V1','Virar','8-10 PM',220,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('81','V2','Virar','6-8 AM',150,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('82','V2','Virar','8-10 AM',147,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('83','V2','Virar','10-12 AM',140,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('84','V2','Virar','12-2 PM',105,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('85','V2','Virar','2-4 PM',111,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('86','V2','Virar','4-6 PM',125,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('87','V2','Virar','6-8 PM',155,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('88','V2','Virar','8-10 PM',165,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('89','V2','Virar','6-8 AM',162,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('90','V2','Virar','8-10 AM',145,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('91','V2','Virar','10-12 AM',132,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('92','V2','Virar','12-2 PM',125,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('93','V2','Virar','2-4 PM',117,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('94','V2','Virar','4-6 PM',145,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('95','V2','Virar','6-8 PM',150,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('96','V2','Virar','8-10 PM',161,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('97','BH1','Bhayander','6-8 AM',225,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('98','BH1','Bhayander','8-10 AM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('99','BH1','Bhayander','10-12 AM',235,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('100','BH1','Bhayander','12-2 PM',215,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('101','BH1','Bhayander','2-4 PM',205,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('102','BH1','Bhayander','4-6 PM',220,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('103','BH1','Bhayander','6-8 PM',235,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('104','BH1','Bhayander','8-10 PM',250,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('105','BH1','Bhayander','6-8 AM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('106','BH1','Bhayander','8-10 AM',240,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('107','BH1','Bhayander','10-12 AM',243,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('108','BH1','Bhayander','12-2 PM',225,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('109','BH1','Bhayander','2-4 PM',215,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('110','BH1','Bhayander','4-6 PM',240,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('111','BH1','Bhayander','6-8 PM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('112','BH1','Bhayander','8-10 PM',258,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('113','BH2','Bhayander','6-8 AM',140,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('114','BH2','Bhayander','8-10 AM',165,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('115','BH2','Bhayander','10-12 AM',155,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('116','BH2','Bhayander','12-2 PM',143,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('117','BH2','Bhayander','2-4 PM',157,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('118','BH2','Bhayander','4-6 PM',157,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('119','BH2','Bhayander','6-8 PM',166,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('120','BH2','Bhayander','8-10 PM',168,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('121','BH2','Bhayander','6-8 AM',148,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('122','BH2','Bhayander','8-10 AM',148,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('123','BH2','Bhayander','10-12 AM',161,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('124','BH2','Bhayander','12-2 PM',151,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('125','BH2','Bhayander','2-4 PM',139,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('126','BH2','Bhayander','4-6 PM',160,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('127','BH2','Bhayander','6-8 PM',173,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('128','BH2','Bhayander','8-10 PM',158,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('129','A1','Andheri','6-8 AM',240,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('130','A1','Andheri','8-10 AM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('131','A1','Andheri','10-12 AM',200,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('132','A1','Andheri','12-2 PM',180,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('133','A1','Andheri','2-4 PM',150,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('134','A1','Andheri','4-6 PM',200,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('135','A1','Andheri','6-8 PM',260,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('136','A1','Andheri','8-10 PM',275,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('137','A1','Andheri','6-8 AM',232,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('138','A1','Andheri','8-10 AM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('139','A1','Andheri','10-12 AM',230,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('140','A1','Andheri','12-2 PM',170,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('141','A1','Andheri','2-4 PM',152,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('142','A1','Andheri','4-6 PM',235,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('143','A1','Andheri','6-8 PM',250,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('144','A1','Andheri','8-10 PM',260,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('145','A2','Andheri','6-8 AM',270,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('146','A2','Andheri','8-10 AM',285,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('147','A2','Andheri','10-12 AM',240,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('148','A2','Andheri','12-2 PM',235,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('149','A2','Andheri','2-4 PM',220,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('150','A2','Andheri','4-6 PM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('151','A2','Andheri','6-8 PM',260,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('152','A2','Andheri','8-10 PM',280,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('153','A2','Andheri','6-8 AM',280,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('154','A2','Andheri','8-10 AM',265,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('155','A2','Andheri','10-12 AM',235,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('156','A2','Andheri','12-2 PM',239,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('157','A2','Andheri','2-4 PM',224,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('158','A2','Andheri','4-6 PM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('159','A2','Andheri','6-8 PM',265,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('160','A2','Andheri','8-10 PM',275,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('161','BA1','Bandra','6-8 AM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('162','BA1','Bandra','8-10 AM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('163','BA1','Bandra','10-12 AM',235,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('164','BA1','Bandra','12-2 PM',225,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('165','BA1','Bandra','2-4 PM',215,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('166','BA1','Bandra','4-6 PM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('167','BA1','Bandra','6-8 PM',265,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('168','BA1','Bandra','8-10 PM',280,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('169','BA1','Bandra','6-8 AM',240,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('170','BA1','Bandra','8-10 AM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('171','BA1','Bandra','10-12 AM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('172','BA1','Bandra','12-2 PM',218,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('173','BA1','Bandra','2-4 PM',224,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('174','BA1','Bandra','4-6 PM',257,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('175','BA1','Bandra','6-8 PM',259,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('176','BA1','Bandra','8-10 PM',285,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('177','BA2','Bandra','6-8 AM',230,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('178','BA2','Bandra','8-10 AM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('179','BA2','Bandra','10-12 AM',235,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('180','BA2','Bandra','12-2 PM',213,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('181','BA2','Bandra','2-4 PM',207,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('182','BA2','Bandra','4-6 PM',240,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('183','BA2','Bandra','6-8 PM',266,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('184','BA2','Bandra','8-10 PM',268,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('185','BA2','Bandra','6-8 AM',234,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('186','BA2','Bandra','8-10 AM',250,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('187','BA2','Bandra','10-12 AM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('188','BA2','Bandra','12-2 PM',209,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('189','BA2','Bandra','2-4 PM',219,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('190','BA2','Bandra','4-6 PM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('191','BA2','Bandra','6-8 PM',254,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('192','BA2','Bandra','8-10 PM',260,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('193','D1','Dadar','6-8 AM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('194','D1','Dadar','8-10 AM',275,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('195','D1','Dadar','10-12 AM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('196','D1','Dadar','12-2 PM',235,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('197','D1','Dadar','2-4 PM',225,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('198','D1','Dadar','4-6 PM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('199','D1','Dadar','6-8 PM',265,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('200','D1','Dadar','8-10 PM',285,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('201','D1','Dadar','6-8 AM',250,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('202','D1','Dadar','8-10 AM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('203','D1','Dadar','10-12 AM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('204','D1','Dadar','12-2 PM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('205','D1','Dadar','2-4 PM',230,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('206','D1','Dadar','4-6 PM',265,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('207','D1','Dadar','6-8 PM',275,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('208','D1','Dadar','8-10 PM',278,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('209','D2','Dadar','6-8 AM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('210','D2','Dadar','8-10 AM',265,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('211','D2','Dadar','10-12 AM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('212','D2','Dadar','12-2 PM',230,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('213','D2','Dadar','2-4 PM',220,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('214','D2','Dadar','4-6 PM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('215','D2','Dadar','6-8 PM',276,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('216','D2','Dadar','8-10 PM',288,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('217','D2','Dadar','6-8 AM',254,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('218','D2','Dadar','8-10 AM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('219','D2','Dadar','10-12 AM',248,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('220','D2','Dadar','12-2 PM',237,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('221','D2','Dadar','2-4 PM',210,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('222','D2','Dadar','4-6 PM',267,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('223','D2','Dadar','6-8 PM',266,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('224','D2','Dadar','8-10 PM',282,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('225','E1','Elphinstone','6-8 AM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('226','E1','Elphinstone','8-10 AM',270,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('227','E1','Elphinstone','10-12 AM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('228','E1','Elphinstone','12-2 PM',225,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('229','E1','Elphinstone','2-4 PM',215,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('230','E1','Elphinstone','4-6 PM',260,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('231','E1','Elphinstone','6-8 PM',275,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('232','E1','Elphinstone','8-10 PM',280,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('233','E1','Elphinstone','6-8 AM',250,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('234','E1','Elphinstone','8-10 AM',267,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('235','E1','Elphinstone','10-12 AM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('236','E1','Elphinstone','12-2 PM',235,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('237','E1','Elphinstone','2-4 PM',218,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('238','E1','Elphinstone','4-6 PM',252,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('239','E1','Elphinstone','6-8 PM',285,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('240','E1','Elphinstone','8-10 PM',276,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('241','E2','Elphinstone','6-8 AM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('242','E2','Elphinstone','8-10 AM',265,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('243','E2','Elphinstone','10-12 AM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('244','E2','Elphinstone','12-2 PM',233,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('245','E2','Elphinstone','2-4 PM',227,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('246','E2','Elphinstone','4-6 PM',257,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('247','E2','Elphinstone','6-8 PM',266,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('248','E2','Elphinstone','8-10 PM',278,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('249','E2','Elphinstone','6-8 AM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('250','E2','Elphinstone','8-10 AM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('251','E2','Elphinstone','10-12 AM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('252','E2','Elphinstone','12-2 PM',248,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('253','E2','Elphinstone','2-4 PM',235,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('254','E2','Elphinstone','4-6 PM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('255','E2','Elphinstone','6-8 PM',280,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('256','E2','Elphinstone','8-10 PM',272,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('257','C1','Churchgate','6-8 AM',275,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('258','C1','Churchgate','8-10 AM',280,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('259','C1','Churchgate','10-12 AM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('260','C1','Churchgate','12-2 PM',255,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('261','C1','Churchgate','2-4 PM',245,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('262','C1','Churchgate','4-6 PM',270,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('263','C1','Churchgate','6-8 PM',275,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('264','C1','Churchgate','8-10 PM',290,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('265','C1','Churchgate','6-8 AM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('266','C1','Churchgate','8-10 AM',274,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('267','C1','Churchgate','10-12 AM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('268','C1','Churchgate','12-2 PM',245,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('269','C1','Churchgate','2-4 PM',255,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('270','C1','Churchgate','4-6 PM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('271','C1','Churchgate','6-8 PM',285,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('272','C1','Churchgate','8-10 PM',287,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('273','C2','Churchgate','6-8 AM',250,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('274','C2','Churchgate','8-10 AM',275,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('275','C2','Churchgate','10-12 AM',265,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('276','C2','Churchgate','12-2 PM',243,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('277','C2','Churchgate','2-4 PM',247,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('278','C2','Churchgate','4-6 PM',260,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('279','C2','Churchgate','6-8 PM',266,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('280','C2','Churchgate','8-10 PM',278,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('281','C2','Churchgate','6-8 AM',270,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('282','C2','Churchgate','8-10 AM',280,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('283','C2','Churchgate','10-12 AM',260,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('284','C2','Churchgate','12-2 PM',239,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('285','C2','Churchgate','2-4 PM',240,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('286','C2','Churchgate','4-6 PM',267,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('287','C2','Churchgate','6-8 PM',276,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('288','C2','Churchgate','8-10 PM',283,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('289','M1','Mumbai Central','6-8 AM',165,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('290','M1','Mumbai Central','8-10 AM',170,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('291','M1','Mumbai Central','10-12 AM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('292','M1','Mumbai Central','12-2 PM',145,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('293','M1','Mumbai Central','2-4 PM',155,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('294','M1','Mumbai Central','4-6 PM',170,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('295','M1','Mumbai Central','6-8 PM',195,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('296','M1','Mumbai Central','8-10 PM',180,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('297','M1','Mumbai Central','6-8 AM',155,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('298','M1','Mumbai Central','8-10 AM',175,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('299','M1','Mumbai Central','10-12 AM',140,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('300','M1','Mumbai Central','12-2 PM',148,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('301','M1','Mumbai Central','2-4 PM',142,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('302','M1','Mumbai Central','4-6 PM',175,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('303','M1','Mumbai Central','6-8 PM',186,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('304','M1','Mumbai Central','8-10 PM',187,'Yesterday');
+
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('305','M2','Mumbai Central','6-8 AM',180,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('306','M2','Mumbai Central','8-10 AM',205,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('307','M2','Mumbai Central','10-12 AM',175,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('308','M2','Mumbai Central','12-2 PM',153,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('309','M2','Mumbai Central','2-4 PM',147,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('310','M2','Mumbai Central','4-6 PM',157,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('311','M2','Mumbai Central','6-8 PM',166,'Today');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('312','M2','Mumbai Central','8-10 PM',178,'Today');
+
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('313','M2','Mumbai Central','6-8 AM',190,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('314','M2','Mumbai Central','8-10 AM',200,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('315','M2','Mumbai Central','10-12 AM',185,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('316','M2','Mumbai Central','12-2 PM',158,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('317','M2','Mumbai Central','2-4 PM',139,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('318','M2','Mumbai Central','4-6 PM',167,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('319','M2','Mumbai Central','6-8 PM',172,'Yesterday');
+INSERT INTO `timedetails`(`SrNo`, `BridgeNo`, `StationName`, `Time`, `NoOfPerson`, `Day`) VALUES ('320','M2','Mumbai Central','8-10 PM',173,'Yesterday');
+
